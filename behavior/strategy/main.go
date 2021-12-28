@@ -1,1 +1,3 @@
-package strategy
+package main
+
+func main() {}
